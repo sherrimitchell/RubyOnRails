@@ -11,7 +11,7 @@ Every request requires an authentication token to be provided in the header.
 To do this make sure you set 'Access-Token' equal to the user's access token in every request except for SIGNUP and LOGIN.
 
 ```
-['Access-Token'] = '1aB234cDhJks82jaC'
+['Access-Token'] = 'f16395873f4bcee7ef5d46e531b9f659'
 ```
 
 ## Sign up and Login
@@ -40,7 +40,7 @@ Response Status Code: 201
 
 {
   "user_name": "whatever",
-  "access_token": "102931afffksdfjklss",
+  "access_token": "f16395873f4bcee7ef5d46e531b9f659f16395873f4bcee7ef5d46e531b9f659",
   "first_name": "John",
   "last_name": "Doe",
   "email": "johndoe@gmail.com"
